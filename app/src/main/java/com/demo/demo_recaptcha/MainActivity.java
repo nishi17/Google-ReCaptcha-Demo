@@ -39,6 +39,14 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.C
         GoogleApiClient.OnConnectionFailedListener {
 
 
+    /*Label  - nishi.gq (buy domain nishi.gq for free from https://my.freenom.com )
+    reCAPTCHA type  - reCAPTCHA v2 android
+    Domains  - 	   com.demo.demo_recaptcha
+
+    SITE KEY -6LfUsboUAAAAAHAoOP5vZvCg4JM-t-wAOM9o94uZ
+
+    SECRET KEY - 6LfUsboUAAAAAGFXUAJJqsO4PjxsfCQ80eSci3uf*/
+
     Button btnRequest;
     public final String SiteKey = "6LfUsboUAAAAAHAoOP5vZvCg4JM-t-wAOM9o94uZ";
     public final String SiteSecretKey = "6LfUsboUAAAAAGFXUAJJqsO4PjxsfCQ80eSci3uf";
